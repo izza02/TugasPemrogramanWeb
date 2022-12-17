@@ -1,0 +1,20 @@
+body {
+    background-color:rgb(233, 207, 176);
+}
+
+
+hr {
+    border: 0;
+    height: 3px;
+    background-color: rgb(248, 229, 205);
+}
+
+.footer {
+    padding: 10px;
+}
+
+.footer .copy {
+    color: black;
+    text-align: left;
+    font-size: 14px;
+}
